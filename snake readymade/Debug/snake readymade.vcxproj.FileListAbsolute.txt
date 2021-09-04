@@ -1,2 +1,0 @@
-D:\C++ Programs\snake readymade\Debug\snake readymade.exe
-D:\C++ Programs\snake readymade\Debug\snake readymade.pdb
