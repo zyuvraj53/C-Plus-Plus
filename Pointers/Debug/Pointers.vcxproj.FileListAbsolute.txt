@@ -1,0 +1,2 @@
+D:\Desktop\C++(VS)\Pointers\Debug\Pointers.exe
+D:\Desktop\C++(VS)\Pointers\Debug\Pointers.pdb

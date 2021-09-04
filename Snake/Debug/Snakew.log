@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\C++ Programs\Snakew\main.cpp(8,14): error C2065: 'dir': undeclared identifier
+D:\C++ Programs\Snakew\main.cpp(8,12): error C2513: 'eDirection': no variable declared before '='
+D:\C++ Programs\Snakew\main.cpp(12,18): error C2143: syntax error: missing ';' before ':'
+D:\C++ Programs\Snakew\main.cpp(12,18): error C2059: syntax error: ':'
+  Source.cpp
+  Generating Code...

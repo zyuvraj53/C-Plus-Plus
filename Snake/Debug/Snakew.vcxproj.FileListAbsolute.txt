@@ -1,0 +1,2 @@
+D:\C++ Programs\Snakew\Debug\Snakew.exe
+D:\C++ Programs\Snakew\Debug\Snakew.pdb
